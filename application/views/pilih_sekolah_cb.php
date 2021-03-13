@@ -5,7 +5,7 @@
     <?php } ?>
   </div>
   <div class="card-body">
-    <form method="post" action="<?php echo base_url('main/mulai') ?>">
+    <form method="post" action="<?php echo base_url('index.php/main/mulai') ?>">
       <div class="form-group">
         <select class="form-control select2bs4" style="width: 100%;" name="sekolah">
           <option value="0">- Pilih Sekolah -</option>

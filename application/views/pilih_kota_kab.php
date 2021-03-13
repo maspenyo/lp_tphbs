@@ -6,7 +6,7 @@
   <?php 
     foreach ($hasil as $value) {
   ?>
-    <a href="<?php echo base_url('main/sekolah/').$value->id_kabupaten ?>" type="button" class="btn btn-outline-info btn-block"><?php echo $value->nama_kabupaten ?></a>
+    <a href="<?php echo base_url('index.php/main/sekolah/').$value->id_kabupaten ?>" type="button" class="btn btn-outline-info btn-block"><?php echo $value->nama_kabupaten ?></a>
   <?php 
     }
   ?>
