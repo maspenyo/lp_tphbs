@@ -30,6 +30,6 @@
   ?> -->
   </div>
   <div class="card-footer">
-    <a href="<?php echo base_url('main') ?>" class="btn btn-outline-secondary btn-xs">Kembali</a>
+    <a href="<?php echo base_url('index.php/main') ?>" class="btn btn-outline-secondary btn-xs">Kembali</a>
   </div>
 </div>
