@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-  <title>AdminLTE 3 | Top Navigation</title>
+  <title>TPHBS SMA 2021</title>
 
   <!-- Font Awesome Icons -->
   <link rel="stylesheet" href="<?php echo base_url(); ?>assets/plugins/fontawesome-free/css/all.min.css">
@@ -49,8 +49,8 @@
     <div class="content-header">
       <div class="container">
         <div class="row mb-2">
-          <div class="col-sm-6">
-            <h1 class="m-0 text-dark">Tes Penjajakan Hasil Belajar Siswa SMA DIY</h1>
+          <div class="col-sm-12">
+            <h1 class="m-0 text-dark di-tengah"></h1>
           </div>
         </div>
       </div>
