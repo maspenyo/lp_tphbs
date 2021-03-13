@@ -1,0 +1,5 @@
+"id_sekolah";"id_kabupaten";"npsn";"nama_sekolah";"server"
+"1";"1";"1100001";"SMA Kota Yogyakarta 1";"https://node1.jogjacbt.web.id"
+"2";"1";"1100002";"Sekolah Kota Yogyakarta 2";"https://node1.jogjacbt.web.id"
+"3";"2";"1200001";"Sekolah Kabupaten Bantul 1";"https://node2.jogjacbt.web.id"
+"4";"2";"1200002";"SMA Kabupaten Bantul 2";"https://node2.jogjacbt.web.id"
