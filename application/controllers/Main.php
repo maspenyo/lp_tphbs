@@ -8,7 +8,7 @@ class Main extends CI_Controller{
 
     function index(){
     	$data['hasil'] = $this->M_Wilayah->kabupaten();
-    	$data['title'] = "Ujian Susulan";
+    	$data['title'] = "Menu Susulan TPHBS SMA 2021";
         //$this->template->load_admin('main2','pilih_kota_kab',$data);
         $this->template->load_admin('main2','pilih_start2',$data);
     }
