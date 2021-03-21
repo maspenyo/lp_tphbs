@@ -9,7 +9,8 @@ class Main extends CI_Controller{
     function index(){
     	$data['hasil'] = $this->M_Wilayah->kabupaten();
     	$data['title'] = "Pilih Kota/ Kabupaten";
-        $this->template->load_admin('main2','pilih_kota_kab',$data);
+        //$this->template->load_admin('main2','pilih_kota_kab',$data);
+        $this->template->load_admin('main2','pilih_start2',$data);
     }
 
     function sekolah(){
